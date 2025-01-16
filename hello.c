@@ -3,7 +3,7 @@
 
 int main(void) {
 	// The "\n" means "start a new line"
-	printf("Hello, world!\n");
+	printf("Hello, wade's world!\n");
 
 	for (int i = 10; i > 0; i--) {
 		// "%d" means "insert a decimal (base-10) int here"
